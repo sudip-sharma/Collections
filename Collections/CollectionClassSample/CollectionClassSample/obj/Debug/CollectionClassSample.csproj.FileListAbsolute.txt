@@ -1,0 +1,6 @@
+D:\Study\C# Projects\Collections\CollectionClassSample\CollectionClassSample\bin\Debug\CollectionClassSample.exe.config
+D:\Study\C# Projects\Collections\CollectionClassSample\CollectionClassSample\bin\Debug\CollectionClassSample.exe
+D:\Study\C# Projects\Collections\CollectionClassSample\CollectionClassSample\bin\Debug\CollectionClassSample.pdb
+D:\Study\C# Projects\Collections\CollectionClassSample\CollectionClassSample\obj\Debug\CollectionClassSample.csprojResolveAssemblyReference.cache
+D:\Study\C# Projects\Collections\CollectionClassSample\CollectionClassSample\obj\Debug\CollectionClassSample.exe
+D:\Study\C# Projects\Collections\CollectionClassSample\CollectionClassSample\obj\Debug\CollectionClassSample.pdb
